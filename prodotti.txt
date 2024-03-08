@@ -1,0 +1,2 @@
+Ball, 20, Leather's soccer ball, black and white model, 100
+Cock, 20, Leather's soccer ball, black and white model, 50
